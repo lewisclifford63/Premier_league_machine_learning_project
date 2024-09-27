@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Ignore requirements.txt if you don't want it in the repo (optional)
+# requirements.txt
