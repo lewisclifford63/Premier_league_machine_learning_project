@@ -103,8 +103,3 @@ This will display the overall accuracy and the accuracy of predictions when both
 - Make your changes and commit them (`git commit -am 'Add new feature'`).
 - Push to the branch (`git push origin feature-branch`).
 - Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
